@@ -1,0 +1,8 @@
+{
+  "name": "velora-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "echo 'Frontend setup scheduled for next phase'"
+  }
+}
